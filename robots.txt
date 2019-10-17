@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://izeileighi.294.moe/sitemap.xml
